@@ -8,3 +8,4 @@ a. For the general practice there is a genral section for that as the **technolo
 b. Each project should contain a folder name document irrespective of the languages used. That describe the motive and planed structure of that project.
 3. Each language should have own running branch for local work that is merge to master after a certain periods to make the structure of the repo managable.
 
+git commit --author="Ravibhushan Kumar <ravibhushankumarsonu@gmail.com>" -m "Changes"
