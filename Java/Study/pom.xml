@@ -6,26 +6,13 @@
 
     <groupId>Study</groupId>
     <artifactId>Study</artifactId>
+    <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>JavaTheCompleteReference</module>
+        <module>dropWizardExamples</module>
+        <module>Practice</module>
+    </modules>
 
-    <dependencies>
-        <dependency>
-            <groupId>com.google.code.gson</groupId>
-            <artifactId>gson</artifactId>
-            <version>2.3.1</version>
-        </dependency>
-        <dependency>
-            <groupId>commons-httpclient</groupId>
-            <artifactId>commons-httpclient</artifactId>
-            <version>3.0.1</version>
-            <!--<scope>provided</scope>-->
-            <exclusions>
-                <exclusion>
-                    <groupId>commons-codec</groupId>
-                    <artifactId>commons-codec</artifactId>
-                </exclusion>
-            </exclusions>
-        </dependency>
-    </dependencies>
 
 </project>
