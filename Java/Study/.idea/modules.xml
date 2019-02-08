@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Hibernate-DAO/HibernateDAO.iml" filepath="$PROJECT_DIR$/Hibernate-DAO/HibernateDAO.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaTheCompleteReference/JavaTheCompleteReference.iml" filepath="$PROJECT_DIR$/JavaTheCompleteReference/JavaTheCompleteReference.iml" />
       <module fileurl="file://$PROJECT_DIR$/Practice/Practice.iml" filepath="$PROJECT_DIR$/Practice/Practice.iml" />
       <module fileurl="file://$PROJECT_DIR$/Study.iml" filepath="$PROJECT_DIR$/Study.iml" />
       <module fileurl="file://$PROJECT_DIR$/dropWizardExamples/dropWizardExamples.iml" filepath="$PROJECT_DIR$/dropWizardExamples/dropWizardExamples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/geeks_for_geeks/geeks_for_geeks.iml" filepath="$PROJECT_DIR$/geeks_for_geeks/geeks_for_geeks.iml" />
     </modules>
   </component>
 </project>

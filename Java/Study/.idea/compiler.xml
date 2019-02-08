@@ -7,12 +7,16 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="dropWizardExamples" />
+        <module name="geeks_for_geeks" />
+        <module name="HibernateDAO" />
         <module name="JavaTheCompleteReference" />
         <module name="Practice" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="dropWizardExamples" target="1.7" />
+      <module name="dropWizardExamples" target="1.5" />
+      <module name="geeks_for_geeks" target="1.7" />
+      <module name="HibernateDAO" target="1.5" />
       <module name="JavaTheCompleteReference" target="1.7" />
       <module name="Practice" target="1.7" />
       <module name="Study" target="1.5" />

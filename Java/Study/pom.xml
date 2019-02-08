@@ -12,6 +12,8 @@
         <module>JavaTheCompleteReference</module>
         <module>dropWizardExamples</module>
         <module>Practice</module>
+        <module>geeks_for_geeks</module>
+        <module>Hibernate-DAO</module>
     </modules>
 
 
